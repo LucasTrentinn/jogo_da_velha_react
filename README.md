@@ -1,1 +1,2 @@
-# jogo_da_velha_react
+# Jogo da Velha com React
+Projeto 
