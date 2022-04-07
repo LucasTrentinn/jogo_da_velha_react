@@ -27,12 +27,16 @@ Nesta etapa foi adicionada a funcionalidade de armazenamento do histórico de jo
 
 ## A fazer
 
-As seguintes tarefas são recomendações do próprio tutorial, ainda a serem aplicadas no código: 
+1) Criar e aplicar um design em CSS para o estilo da página.
 
-1) Mostrar a localização de cada jogada no formato (col,row), para cada jogada no histórico.
-2) Estilizar com negrito o item da lista de jogadas que está selecionado no momento.
-3) Reescrever o componente Board para utilizar 2 loops para fazer os quadrados, em vez de deixá-los hardcoded.
-4) Adicionar um botão de toggle que lhe permita ordenar os jogadas em ordem ascendente ou descendente.
-5) Quando alguém ganhar, destaque os 3 quadrados que causaram a vitória.
-6) Quando ninguém ganhar, exiba uma mensagem informando que o resultado foi um empate.
+2) Escolher e aplicar algumas das seguintes melhorias recomendadas pelo tutorial:
+    a) Mostrar a localização de cada jogada no formato (col,row), para cada jogada no histórico.
+    b) Estilizar com negrito o item da lista de jogadas que está selecionado no momento.
+    c) Reescrever o componente Board para utilizar 2 loops para fazer os quadrados, em vez de deixá-los hardcoded.
+    d) Adicionar um botão de toggle que lhe permita ordenar os jogadas em ordem ascendente ou descendente.
+    e) Quando alguém ganhar, destaque os 3 quadrados que causaram a vitória.
+    f) Quando ninguém ganhar, exiba uma mensagem informando que o resultado foi um empate.
 
+3) Desenvolver um sistema de login para o jogo.
+
+4) Futuramente hospedar o jogo.
