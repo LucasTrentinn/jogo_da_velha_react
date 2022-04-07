@@ -37,6 +37,6 @@ Nesta etapa foi adicionada a funcionalidade de armazenamento do histórico de jo
     e) Quando alguém ganhar, destaque os 3 quadrados que causaram a vitória.
     f) Quando ninguém ganhar, exiba uma mensagem informando que o resultado foi um empate.
 
-3) Desenvolver um sistema de login para o jogo.
+3) Possibilidade de jogar contra um computador;
 
 4) Futuramente hospedar o jogo.
